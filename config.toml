@@ -1,4 +1,4 @@
-title = "Osprey Delight Demo"
+title = "Xuelong Mu"
 baseURL = "https://muxuelong.com"
 languageCode = "en-US"
 theme = "osprey-delight"
@@ -13,7 +13,7 @@ enableEmoji = true
   author = "xuelongmu"
   email = ""
   description = "Xuelong Mu"
-  tagline = "Hi, I'm Xuelong"
+  tagline = "xuelong mu"
   logoBig = "/images/x-logo.png" # located in themes/images
   # [str] This is the logo that will be shown in the left corner of the nav bar.
   #   Usually, you would like to use something bigger than a favicon - but not too big either.
@@ -87,9 +87,9 @@ enableEmoji = true
   name = "Contact"
   url  = "/#contact"
   weight = 3
-[[menu.main]]
-  # Use icon here to neatly back reference an external site/blog/whatever:
-  pre = "<i class='icon icon-link-ext'></i>&nbsp;"
-  name = ""
-  url  = "https://pyotek.dev"
-  weight = 4
+# [[menu.main]]
+#   # Use icon here to neatly back reference an external site/blog/whatever:
+#   pre = "<i class='icon icon-link-ext'></i>&nbsp;"
+#   name = ""
+#   url  = "https://pyotek.dev"
+#   weight = 4
