@@ -7,11 +7,11 @@ draft = false
 A **software engineer** and **filmmaker** in NYC.
 <!-- And [here's my repo!](https://github.com/kdevo/osprey-delight) -->
 
-My work is where the physical and digital worlds meet.
+<!-- My work is where the physical and digital worlds meet. -->
 
 VR, virtual production, real-time rendering, robotics.
 
-```js
+```py
 languages = ['python', 'c++', 'c#', 'java', 'javascript', 'sql']
 frameworks = ['ros', '.net', 'react', 'react-native', 'ef6']
 engines = ['unity', 'unreal engine']

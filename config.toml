@@ -32,6 +32,17 @@ enableEmoji = true
   #   Anyways, of course you're free to uncomment the following line to disable the credit.
   # credit = false
 
+#    # Code highlighting with highlight.js
+  highlightJS = true
+  highlightJSStyle = "/styles/github.min.css" # For custom highlight.js styles, add your /path/to/styles/default.css
+  highlightJSScript = "/scripts/highlight.pack.js" # For custom highlight.js languages config, add your /path/to/highlight.pack.js
+
+# [markup]
+#   [markup.highlight]
+#     noClasses = false
+#     style = "vs"
+
+
 ## Social media links in footer:
 [Params.Social]
   # [str] Link to your Twitter.
