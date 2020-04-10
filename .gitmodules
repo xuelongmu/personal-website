@@ -1,3 +1,3 @@
-[submodule "osprey-delight"] 
-  path = themes 
-  url = git://github.com/xuelongmu/osprey-delight.git
+[submodule "osprey-delight"]
+	path = osprey-delight
+	url = https://github.com/kdevo/osprey-delight.git
