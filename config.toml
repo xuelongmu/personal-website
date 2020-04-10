@@ -80,10 +80,10 @@ enableEmoji = true
   # structuredDataFromGithub = "USERNAME"
 
 ## Configure contact form:
-# [Params.Contact]
-#   # [str[]] i18n keys used to display in an additional select box.
-#   #   Comment out if you want to disable it.
-#   select = ["generic", "coop", "business", "project"]
+[Params.Contact]
+  # [str[]] i18n keys used to display in an additional select box.
+  #   Comment out if you want to disable it.
+  select = ["business", "collab"]
 
 
 [[menu.main]]
