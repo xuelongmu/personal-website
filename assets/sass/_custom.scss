@@ -33,3 +33,16 @@ div#sectionright {
   text-align: left;
   @include size(h3);
 }
+
+.modal {
+  article {
+    img {
+      display: block;
+      width: 70%;
+      margin-left: auto;
+      padding: 15px;
+      margin-right: auto;
+      // justify-content: center;
+    }
+  }
+}
