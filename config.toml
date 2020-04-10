@@ -11,7 +11,7 @@ enableEmoji = true
 ## Generic theme parameters:
 [Params]
   author = "xuelongmu"
-  email = ""
+  email = "xuelongmu@gmail.com"
   description = "Xuelong Mu"
   tagline = "xuelong mu"
   logoBig = "/images/x-logo.png" # located in themes/images
@@ -30,7 +30,7 @@ enableEmoji = true
   copyright = true
   # [bool] Your credit is much appreciated. It will be displayed in a small way in your footer.
   #   Anyways, of course you're free to uncomment the following line to disable the credit.
-  # credit = false
+  credit = false
 
    # Code highlighting with highlight.js
   highlightJS = true
@@ -67,7 +67,7 @@ enableEmoji = true
   # [bool] Lazy loading of images with lazysizes (SEO-friendly).
   lazyloading = true
   # [str] Use Basin contact form.
-  ajaxBasin = "https://usebasin.com/f/{YOUR-12-CHAR-FORM-KEY-HERE}"
+  ajaxBasin = "https://usebasin.com/f/7acd2b0b500e"
   googleTagManager = ""
   # [bool] Enable usage of your own 'assets/scss/_custom.css'.
   customCSS = true
