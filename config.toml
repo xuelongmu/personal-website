@@ -32,21 +32,21 @@ enableEmoji = true
   #   Anyways, of course you're free to uncomment the following line to disable the credit.
   # credit = false
 
-#    # Code highlighting with highlight.js
+   # Code highlighting with highlight.js
   highlightJS = true
-  highlightJSStyle = "/styles/github.min.css" # For custom highlight.js styles, add your /path/to/styles/default.css
+  highlightJSStyle = "" # For custom highlight.js styles, add your /path/to/styles/default.css
   highlightJSScript = "/scripts/highlight.pack.js" # For custom highlight.js languages config, add your /path/to/highlight.pack.js
 
 # [markup]
 #   [markup.highlight]
-#     noClasses = false
-#     style = "vs"
+#     noClasses = true
+#     style = "github"
 
 
 ## Social media links in footer:
 [Params.Social]
   # [str] Link to your Twitter.
-  twitter = ""
+  # twitter = ""
   # [str] Link to your LinkedIn.
   linkedin = "https://www.linkedin.com/in/xuelong-mu-398288118/"
   # [str] Link to your GitHub.
@@ -56,7 +56,7 @@ enableEmoji = true
   # [str] Link to your Instagram.
   # instagram = ""
   # [str] Link to your StackOverflow.
-  stackoverflow = ""
+  # stackoverflow = ""
 
 
 ## Theme features:
@@ -70,7 +70,7 @@ enableEmoji = true
   ajaxBasin = "https://usebasin.com/f/{YOUR-12-CHAR-FORM-KEY-HERE}"
   googleTagManager = ""
   # [bool] Enable usage of your own 'assets/scss/_custom.css'.
-  customCSS = false
+  customCSS = true
   # [bool] Use structured data for your own https://schema.org/Person (SEO-friendly).
   #   The theme attempts to "guess" your information by using the information you give it in the configuration.
   #   For more specific usage, you can override the JSON-LD by supplying your own 'person.json' under 'assets/'
@@ -80,10 +80,10 @@ enableEmoji = true
   # structuredDataFromGithub = "USERNAME"
 
 ## Configure contact form:
-[Params.Contact]
-  # [str[]] i18n keys used to display in an additional select box.
-  #   Comment out if you want to disable it.
-  select = ["generic", "coop", "business", "project"]
+# [Params.Contact]
+#   # [str[]] i18n keys used to display in an additional select box.
+#   #   Comment out if you want to disable it.
+#   select = ["generic", "coop", "business", "project"]
 
 
 [[menu.main]]

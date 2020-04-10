@@ -1,10 +1,13 @@
 ---
 date: "2017-05-18T21:57:17-07:00"
-title: "Osprey Delight"
-image: "osprey-delight.png"
-color: "#b2ebf2"
-type: "github"
-github:
+title: "Eventscape"
+image: "eventscape.png"
+color: "#ffffff"
+type: "gallery"
+
+---
+
+<!-- github:
     repo: "kdevo/osprey"
     showInfo: true
 terminal:
@@ -25,8 +28,7 @@ terminal:
       wait: 900
     - type: input
       data: exit
-      wait: 500
----
+      wait: 500 -->
 
 {{! github-description !}}
 

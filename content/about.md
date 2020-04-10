@@ -1,24 +1,24 @@
 +++
-title = "Hi, I'm Xuelong"
+title = "Hi, I'm Xuelong." 
 date = "2017-06-27T17:39:21-07:00"
 draft = false
 +++
 
-A **software engineer** and **filmmaker** in NYC.
+<!-- Shortcode for image + wrapped text -->
+<!-- {{< imagewithtext img="/images/headshot_thumbnail.jpg" >}} -->
+
+A **software engineer** and **filmmaker** based in NYC.
+
 <!-- And [here's my repo!](https://github.com/kdevo/osprey-delight) -->
 
-<!-- My work is where the physical and digital worlds meet. -->
+I work where the physical and digital worlds meet. I'm interested in using VR and Virtual Production to bring new, exciting experiences to life. I believe that immersive technology can connect us with ourselves and to others.
 
-VR, virtual production, real-time rendering, robotics.
-
-```py
-languages = ['python', 'c++', 'c#', 'java', 'javascript', 'sql']
-frameworks = ['ros', '.net', 'react', 'react-native', 'ef6']
-engines = ['unity', 'unreal engine']
+```js
+let languages = ["python", "c++", "c#", "java", "javascript", "sql"];
+frameworks = ["ros", ".net", "react", "react-native", "ef6"];
+engines = ["unreal engine", "unity"];
 ```
 
-Osprey **De**light is a sugar-free version of the [awesome Osprey theme](https://github.com/tomanistor/osprey) by [Toma Nistor](https://tomanistor.com/) for [Hugo](https://gohugo.io/).
+View my code at [Github](https://github.com/xuelongmu), connect with me on [LinkedIn](https://www.linkedin.com/in/xuelong-mu-398288118/), and check out my work below.
 
-It tastes a bit different than the original (hence the "light" in the name) but also adds some new functionality -- hopefully to your **delight**.
-
-Have fun using it! {{< icon "rocket icon-pulse-fast" >}}
+![photo of me](images/headshot_thumbnail.jpg)
