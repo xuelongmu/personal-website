@@ -1,5 +1,5 @@
 +++
-date = "2017-05-20T22:25:16-07:00"
+date = "2018-06-20"
 title = "4-Axis Pottery Robot"
 image = "columbia-engineering.jpg"
 alt = "Pottery Robot"
@@ -14,4 +14,4 @@ For my senior design project in the Mechanical Engineering major at Columbia Uni
 ![closeup of pottery robot](images/potbot-closeup-thumbnail.png)
 ![wide shot of pottery robot](images/potbot-wide-thumbnail.png)
 
-Click "view" to see the robot in action!
+Click "view" to see the robot in action! We were also featured in the [Senior Design Expo video](https://youtu.be/Y1ClqYPPJVE?t=76).

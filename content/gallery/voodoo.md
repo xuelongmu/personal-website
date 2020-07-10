@@ -1,12 +1,14 @@
 +++
-date = "2017-05-12T22:25:02-07:00"
+date = "2013-02-12"
 title = "Voodoo Manufacturing"
 image = "voodoo-manufacturing-new-resize.png"
 alt = "Giving everyone on Earth the power to manufacture."
 color = "#7300fe"
-linkView = "https://www.voodooclearaligners.com/"
-linkCode = ""
+linkView = "https://youtu.be/r3JoCXZBAFQ"
 +++
 
-Hugo is one of the most popular open-source static site generators. 
-With its amazing speed and flexibility, Hugo makes building websites fun again.
+<!-- linkCode = "" -->
+
+At Voodoo Manufacturing, I developed a 6DOF robot that can trim clear plastic aligners to sub-millimeter accuracy using an ABB robot with the ROS framework (C++ and Python). I owned the project and was responsible for all aspects including path planning, simulation, calibration, , digital I/O, and cloud integration using WebSockets.
+
+Click the view button below to see a demo!

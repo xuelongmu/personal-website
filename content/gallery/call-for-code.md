@@ -1,44 +1,22 @@
----
-# [str] Display title of the project.
-title: "Call for Code"
-# [date] Specify project publication date - changes order; the latest item will be displayed first.
-date: "2020-04-10T19:27:19-04:00"
-# [str] Gallery image file name. Image needs to be under 'images/'.
-# If ommited with type 'github', will attempt to fetch from '{repo_url}/.github/logo.png'.
-image: ""
-# [str] Alternatively, you can specify an absolute image URL (comment out the following line).
-# absImage: ""
-# [str] Provide alternative description.
-# If ommited with type 'github', will use 'description' field from GitHub API.
-alt: ""
-# [css] Set gallery item's background color.
-color: "#fff"
-# [str] Possible types:
-# - normal: Just as originally in Osprey
-# - github: Fetch repo data using GitHub API
-type: "normal"
-# [str] Link to view the project.
-linkView: ""
-# [str] Link to show the project's code.
-# If ommited with type 'github', will use 'html_url' field from GitHub API.
-linkCode: ""
-# Configure 'github'-type specific options here:
-github: 
-    # [str] Repo is a combination of "{user_or_org}/{repository_name}", e.g. "kdevo/osprey-delight.
-    repo: "YOUR-GITHUB-NAME/call-for-code"
-    # [bool] Show repository information such project language below the buttons.
-    showInfo: true
-# Configure optional terminal to be displayed when opening up the gallery item:
-terminal:
-    # lines:
-    # - type: input
-    #   data: ls -ltra dummy/
-    #   wait: 1250
-    # - type: progress
-    #   data: 100
-    #   wait: 200
-    # - data: ls: cannot access 'dummy/' directory.
-    #   wait: 75
-# [bool] Draft mode will decide if file will be published to 'public/' directory.
-draft: true
----
++++
+date = "2012-05-15"
+title = "Pulled Over"
+image = "pulled-over-icon.png"
+color = "#F7D117"
+linkView = "https://youtu.be/RPvjvOktjd4"
+type = "gallery"
++++
+
+[Pulled Over](https://youtu.be/RPvjvOktjd4) is a 360-degree narrative short film about four high school students drive home from practice when a routine traffic stop takes a turn for the worse.
+
+It's the story for many black Americans for whom prejudice is an everyday occurrence; whether it’s a suspicious gaze or tragic act of violence.
+
+For people whose skin color grants them immunity from unjustified scrutiny, it can be difficult to imagine what experiencing discrimination is like. I made this film to foster more empathy and understanding of the oppressions black Americans face.
+
+![Pulled Over Poster](images/pulled-over-poster.png)
+
+<!-- date = "2020-05-15T21:57:17-07:00" -->
+
+<!-- [github]
+    repo = "tomanistor/osprey"
+    showInfo = true -->
