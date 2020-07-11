@@ -1,7 +1,7 @@
 title = "Xuelong Mu"
 baseURL = "https://muxuelong.com"
 languageCode = "en-US"
-theme = "osprey-delight"
+theme = "osprey-delight" 
 tags = ["personal", "homepage", "portfolio"]
 # canonifyURLS = true
 # googleAnalytics = ""
@@ -19,8 +19,8 @@ enableEmoji = true
   #   Usually, you would like to use something bigger than a favicon - but not too big either.
   #   Make sure that the image does not overlay the nav links. Don't be afraid of experimenting! 
   logoSmall = "favicon.png"
-  favicon = "favicon.png"
-  opengraphImage = "/images/osprey-delight.png" # located in static/images
+  favicon = "favicon.png" 
+  opengraphImage = "/images/xuelong-open-graph.png" # located in static/images
   googleTagManager = ""
   # [bool] The following will enforce redirection to the baseURL for all sub-directories/-pages.
   #   Example: If you create about.md, Hugo will also create a '/about/index.html'.
