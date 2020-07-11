@@ -4,7 +4,7 @@ title = "Voodoo Manufacturing"
 image = "voodoo-manufacturing-new-resize.png"
 alt = "Giving everyone on Earth the power to manufacture."
 color = "#7300fe"
-linkView = "www.voodoomfg.com)"
+linkView = "www.voodoomfg.com"
 +++
 
 At [Voodoo Manufacturing](www.voodoomfg.com), I developed a 6DOF robot arm to operate a cell of nine 3D printers using ROS with Python and OpenCV. The hardware consists of a Universal Robots UR10 arm, Robotiq gripper, and Basler machine vision camera.
