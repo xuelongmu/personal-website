@@ -4,14 +4,9 @@ date = "2017-06-27T17:39:21-07:00"
 draft = false
 +++
 
-<!-- Shortcode for image + wrapped text -->
-<!-- {{< imagewithtext img="/images/headshot_thumbnail.jpg" >}} -->
-
 ![photo of me](images/headshot_thumbnail.jpg)
 
 A **software engineer** and **filmmaker** based in NYC.
-
-<!-- And [here's my repo!](https://github.com/kdevo/osprey-delight) -->
 
 I work where the physical and digital worlds meet. I'm interested in bringing new, exciting experiences to life with VR and games. I believe that immersive technology can connect us with ourselves and to others.
 

@@ -1,5 +1,5 @@
 +++
-date = "2018-06-20"
+date = "2010-07-20T22:25:16-07:00"
 title = "4-Axis Pottery Robot"
 image = "columbia-engineering.jpg"
 alt = "Pottery Robot"
@@ -18,5 +18,7 @@ We used two end effectors, shaped like a palm and a finger, to press the clay in
 Check out the robot in action!
 {{< youtube id="noMa3cp4EMk" >}}
 
-[]()
+<!-- prettier-ignore-start -->
+ 
 We were also featured in the [Senior Design Expo video](https://youtu.be/Y1ClqYPPJVE?t=76).
+<!-- prettier-ignore-end -->
