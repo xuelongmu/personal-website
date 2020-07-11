@@ -3,7 +3,6 @@ date = "2012-05-15"
 title = "Pulled Over"
 image = "pulled-over-icon.png"
 color = "#F7D117"
-linkView = "https://youtu.be/RPvjvOktjd4"
 type = "gallery"
 +++
 

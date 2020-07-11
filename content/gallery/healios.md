@@ -18,7 +18,13 @@ This prototype for a mental health treatment platform was a Global Finalist at t
 {{< youtube id="y0-fxBfsxFU" >}}
 []()
 
-You can also click [here to watch our interview with IBM](https://developer.ibm.com/callforcode/blogs/call-for-code-2019-finalist-healios).
+We were interviewed by IBM at their NYC offices!
+{{< youtube id="nbcDgFGvCo8" >}}
+[]()
+
+And I was on the news!
+{{< youtube id="MMUx9hFGtag" >}}
+[]()
 
 The team consisted of myself, Kevin Kim, Tony Park, Sunjae Shim, and Christopher McKinney.
 
