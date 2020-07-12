@@ -16,4 +16,4 @@ let languages = ["python", "c++", "c#", "java", "javascript", "sql"];
     frameworks = ["unreal engine", "ros", ".net", "react-native"];
 ```
 
-View my code at [GitHub](https://github.com/xuelongmu), connect with me on [LinkedIn](https://www.linkedin.com/in/xuelong-mu-398288118/), and check out my work below.
+View my code at [GitHub](https://github.com/xuelongmu), connect with me on [LinkedIn](https://www.linkedin.com/in/xuelongmu/), and check out my work below.
