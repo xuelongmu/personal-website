@@ -1,5 +1,5 @@
 +++
-date = "2010-06-21T22:25:16-07:00"
+date = "2018-06-21T22:25:16-07:00"
 title = "Voodoo Manufacturing"
 image = "voodoo-manufacturing-new-resize.png"
 alt = "Giving everyone on Earth the power to manufacture."

@@ -1,5 +1,5 @@
 +++
-date = "2010-04-10T22:25:16-07:00"
+date = "2020-04-10T22:25:16-07:00"
 title = "Brook Labs"
 image = "brook-labs.png"
 alt = "We use cutting-edge technology to manufacture best-in-class Clear Aligners."
