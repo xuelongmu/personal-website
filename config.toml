@@ -96,7 +96,7 @@ enableEmoji = true
   weight = 2
 [[menu.main]]
   name = "Resume"
-  url  = "/Xuelong_Mu_Resume.pdf"
+  url  = "/xuelong_mu_resume.pdf"
   weight = 3
 [[menu.main]]
   name = "Contact"
