@@ -7,10 +7,10 @@ color = "#1E0B0A"
 linkView = "https://xuelongmu.itch.io/dorm-room-fever"
 +++
 
-Dorm Room Fever is a first person adventure / stealth game titled Dorm Room Fever where you play as a college student who's under travel quarantine after moving into the dorms. It's a tongue-in-cheek take on the 2020 college experience, and I had a lot of fun making it!
+Dorm Room Fever is a first person adventure / stealth game where you play as a college student who's under travel quarantine after moving into the dorms. It's a tongue-in-cheek take on the 2020 college experience, when many students were placed under strict restrictions and subpar living conditions.
 
-I programmed the game in 100% Blueprints over the course of a week, and worked with two other devs who handled environment/character art and game design.
+I programmed the game in 100% Blueprints in UE4 over the course of a week, as an entry for the Epic 2020 MegaJam. I worked with two other devs who handled environment/character art and game design.
 
-It’s currently available for free download on [itch.io](https://xuelongmu.itch.io/dorm-room-fever). You can also check out this gameplay clip.
+The latest build is currently available for free download on [Google Drive](https://drive.google.com/file/d/1ThPktWQ0-Vqbz7ejhakTcB8VD4JyaUaL/view?usp=sharing). You can also check out this gameplay clip.
 
 {{< youtube id="ZzOFa5rhLsI" >}}

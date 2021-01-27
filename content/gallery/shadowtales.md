@@ -7,12 +7,12 @@ color = "#1F1919"
 linkView = "https://youtu.be/y-ysDdbxTsc"
 +++
 
-I’ve been working on a fast-paced multiplayer action RPG with the following features:
+I’ve been working on a fast-paced multiplayer action RPG in UE4 with the following features:
 
-- Steam networking with Online Subsystem for session hosting, server lists, and session joining
-- Gameplay Ability System (used in Fortnite and Paragon) for replicated, server-authoritative abilities including magic spells and melee attacks
-- Clean HUD with leaderboard, damage indicator, spell availability icons, and health/mana bars
+- Steam networking using Online Subsystem for session hosting, server lists, and session joining
+- Replicated, server-authoritative abilities and effects including magic spells, melee attacks, and debuff indicators, powered by the Gameplay Ability System (used in Fortnite)
+- Clean UI with leaderboard, damage indicators, spell availability icons, and health/mana bars
 
 The video below shows a PvP deathmatch game mode. In the future I plan to add more game modes including PvE missions, more classes, and upgrade systems.
 
-{{< youtube id="ysDdbxTsc" >}}
+{{< youtube id="y-ysDdbxTsc" >}}
