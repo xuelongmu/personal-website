@@ -11,8 +11,8 @@ I’ve been working on a fast-paced multiplayer action RPG with the following fe
 
 - Steam networking with Online Subsystem for session hosting, server lists, and session joining
 - Gameplay Ability System (used in Fortnite and Paragon) for replicated, server-authoritative abilities including magic spells and melee attacks
-- Clean HUD with damage indicator, leaderboard, spell affordance icons, and health/mana bars
+- Clean HUD with leaderboard, damage indicator, spell availability icons, and health/mana bars
 
-The video below shows a PvP deathmatch game mode. In the future we plan to add more game modes including PvE missions, more classes, and upgrade systems.
+The video below shows a PvP deathmatch game mode. In the future I plan to add more game modes including PvE missions, more classes, and upgrade systems.
 
 {{< youtube id="ysDdbxTsc" >}}
