@@ -6,7 +6,7 @@ draft = false
 
 ![photo of me](images/headshot_thumbnail.jpg)
 
-A **software engineer** and **filmmaker** based in NYC.
+A **software engineer** and **filmmaker**.
 
 I work where the physical and digital worlds meet. I'm interested in bringing new, exciting experiences to life with games and VR. I believe that immersive technology can connect us with ourselves and to others.
 
